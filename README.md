@@ -56,7 +56,7 @@ If you wish to test this application locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone <your-github-repo-url>
-   cd ethara-team-task-manager
+   cd role-based-task-manager-app
    ```
 
 2. **Install Backend Dependencies:**

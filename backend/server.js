@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
 });
 
 const PORT = process.env.PORT || 5000;
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/ethara-task-manager';
+const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/role-based-task-manager';
 
 mongoose
   .connect(MONGO_URI)

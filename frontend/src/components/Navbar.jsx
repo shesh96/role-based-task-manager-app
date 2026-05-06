@@ -25,7 +25,7 @@ const Navbar = () => {
         <div style={{ width: '32px', height: '32px', background: 'var(--accent-primary)', borderRadius: '8px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
           <CheckSquare size={20} color="white" />
         </div>
-        Ethara
+        Task Manager
       </div>
       
       <div className="nav-links">
