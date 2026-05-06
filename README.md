@@ -1,7 +1,7 @@
-# Ethara Team Task Manager
+# Role Based Task Manager App
 
 ## 📖 Overview
-Ethara Team Task Manager is a full-stack, comprehensive web application designed to streamline collaboration and task management for teams. Built entirely on the MERN stack (MongoDB, Express, React, Node.js), this application mirrors the core functionalities of industry-standard tools like Trello and Asana. 
+Role Based Task Manager is a full-stack, comprehensive web application designed to streamline collaboration and task management for teams. Built entirely on the MERN stack (MongoDB, Express, React, Node.js), this application mirrors the core functionalities of industry-standard tools like Trello and Asana. 
 
 The primary goal of this project is to provide a seamless environment where users can create projects, assign tasks, and track team progress through a centralized, dynamic dashboard.
 
