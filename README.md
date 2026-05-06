@@ -7,6 +7,11 @@ The primary goal of this project is to provide a seamless environment where user
 
 ---
 
+## 🌐 Live Demo
+You can view the live, fully functional application here:
+**[Role-Based Task Manager (Vercel)](https://role-based-task-manager-app.vercel.app)**
+
+---
 ## ✨ Core Features
 
 ### 1. Secure User Authentication
